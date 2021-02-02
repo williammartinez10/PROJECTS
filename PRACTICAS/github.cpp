@@ -42,7 +42,7 @@ double taxDue(double taxableIncome) {
         return (taxableIncome - 75000) * 0.35 + 11120;
     }
               
-
+    cout << "Hello there :)" << endl;
     // Return result
     return 0; // Dummy return
 }
