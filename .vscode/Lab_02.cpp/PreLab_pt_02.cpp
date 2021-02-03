@@ -74,7 +74,7 @@ int main()
 
 
 
-/*
+
 void stringPractice1(string password);
 
 int main() {
@@ -92,7 +92,7 @@ void stringPractice1(string password) {
         cout << "none";
     }
 }
-*/
+
 
 
 
