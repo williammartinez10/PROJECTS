@@ -52,13 +52,6 @@ using namespace std;
 // }
 
 
-int main()
-{
-    bool upper = 
-    char character = 'g';
-    if (islower(character));
-        cout << toupper(character);
-}
 
 
 string myStr = "I am practicing how to save changes";
