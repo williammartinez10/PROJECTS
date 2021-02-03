@@ -62,3 +62,4 @@ int main()
 
 
 string myStr = "I am practicing how to save changes";
+int number = 2021;
