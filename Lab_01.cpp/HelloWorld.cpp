@@ -1,4 +1,5 @@
 #include <iostream>
+#include <string>
 
 using namespace std;
 
@@ -58,3 +59,6 @@ int main()
     if (islower(character));
         cout << toupper(character);
 }
+
+
+string myStr = "I am practicing how to save changes";
