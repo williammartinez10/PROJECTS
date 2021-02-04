@@ -8,6 +8,7 @@ using namespace std;
 double area(double side1, double side2, double side3){
     double sum = (side1 + side2 + side3) / 2.0;
     double area = sqrt(sum * (sum - side1) * (sum - side2) * (sum - side3));
+    cout << area << endl;
     return area;
 }
 
