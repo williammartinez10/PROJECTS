@@ -58,6 +58,7 @@ void sinlog(double num1, double num2){
     
 
 
+/*
 void startWithA ( string input ){
     size_t lowercasefound = input.find_first_of ("a") ;
     size_t uppercasefound = input.find_first_of ("A") ;
@@ -80,7 +81,7 @@ int main()
     startWithA("_Alejandro");
     startWithA("12abc");
 }
-
+*/
 
 
 // int main()
