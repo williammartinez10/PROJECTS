@@ -15,6 +15,7 @@ int main()
     cout << taxDue(55000) << endl; // 6120 expected
     cout << taxDue(75000) << endl; // 11120 expected
     cout << taxDue(85000) << endl; // 14620 expected
+    cout << taxDue(95000) << endl;
 }
 
 // COMPLETE THE FOLLOWING FUNCTION & PASTE IN QUESTION EDITOR
